@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="17.986">
+    <testcase classname="Automate the testing of an e-commerce website main functionalities" name="Search for dining tables" time="17.537">
+        <system-out><![CDATA[Given the user navigates to the e-commerce website homepage.................passed
+When the user locates the search bar and inputs the search query "Dining Tables".passed
+Then the search results page should load successfully.......................passed
+And the search results should contain items relevant to the search query....passed
+]]></system-out>
+    </testcase>
+</testsuite>
